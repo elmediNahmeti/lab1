@@ -1,0 +1,9 @@
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.csproj.AssemblyReference.cache
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.AssemblyInfoInputs.cache
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.AssemblyInfo.cs
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.RazorAssemblyInfo.cache
+C:\Users\Elmedin\Desktop\Online-Bookstore-Management-System-main\BookstoreAPI\BookstoreAPI\obj\Debug\net5.0\BookstoreAPI.RazorAssemblyInfo.cs
